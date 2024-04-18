@@ -28,5 +28,5 @@ If you want to connect with me, you can message me on
  [LinkedIn](https://www.linkedin.com/in/rohitsanyal234/). My GitHub is linked 
 [here](https://github.com/ExonakiDev)
 
-#### THE END IS NOT THE END IS NOT THE END IS NOT THE END IS NOT THE END
+#### THE END IS NOT THE END IS NOT THE END IS NOT THE END IS NOT
 
