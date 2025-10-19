@@ -4,29 +4,24 @@ date: 2023-07-02T04:28:43-04:00
 draft: false
 ---
 
-Hello, My name is Rohit and I am a quantitative developer/software engineer/data engineer at
-[Monachil Capital Partners LP](https://www.monachilpartners.com). Started off as an intern
-in 2022, now working full-time. Recently graduated (Dec 2022) from my Master's Program at
-[Carnegie Mellon University](https://www.cmu.edu) and joined the "*professional workforce*".
+Hello, My name is Rohit and I am a quantitative data engineer at
+[AlphaQuest f.k.a Quest Partners LLC](https://www.alphaquest.com) in New York, working on the Research Data Platform - which covers market data onboarding, new data processes, backtesting engine development, cloud infrastructure deployment, and all the little gaps in the middle such as ELT pipelines, internal tooling and database design and management.
 
-![graduation image](/grad-pic.jpg "A TARTAN IN THE WILD")
+![headshot](/headshot-resized.jpeg "A TARTAN IN THE WILD")
 
-My main languages at the moment are Python and Java. Started with C and C++, now we here. Still 
-love C as a lang and think anyone new to programming should start with C. Sometimes like to try
-out new languages on the weekend. I think Rust has some real potential!
+My main languages at the moment are Python and C#, though I have been giving Go a "go" (had to take that one, sorry). Have also worked with Java and C quite a bit in the past.
 
-Been learning a lot of new things recently, including but not limited to cloud engineering &
- architecture, finance and lending, dev-ops, best software engineering practices, parallel 
-processing, concurrency and so on. Interested in anything technology, spend my free time
-tinkering. 
+As for Data Engineering - lot of Airflow, Snowflake, Jenkins, GH Actions, AWS (S3, EC2s, Lambdas), Python frameworks - Pandas, Numpy, Scipy.
 
-As for what I do on a day to day basis at work - a lot of Pandas, NumPy, interacting with REST
-APIs, cloud setup and infrastructure, building internal tools/libraries, implementing financial
-models in code, and so on.
+I dabbled in AI quite a bit this summer - building out RAG using langgraph, MCP Servers, Agentic Workflows and so on.
+
+In my free time, I like to tinker with and fix electronics, build small personal tools, learn new programming languages, run, play board games, and experiment with new technologies and infrastructure.
+
 
 If you want to connect with me, you can message me on
- [LinkedIn](https://www.linkedin.com/in/rohitsanyal234/). My GitHub is linked 
+ [LinkedIn](https://www.linkedin.com/in/rohitsanyal234/) or email me at rohit@rohitsan.xyz
+
+My GitHub is linked 
 [here](https://github.com/ExonakiDev)
 
-#### THE END IS NOT THE END IS NOT THE END IS NOT THE END IS NOT
-
+#### THE QUIETER YOU ARE, THE MORE YOU CAN HEAR

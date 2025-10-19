@@ -8,7 +8,8 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-paginate=4 # articles per page
+[pagination]
+pagerSize=4 # articles per page
 
 [params]
 	mode="toggle" # color-mode → light,dark,toggle or auto
